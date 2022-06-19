@@ -12,7 +12,7 @@
             android:layout_width="100dp"
             android:layout_height="100dp" app:srcCompat="@drawable/ic_logo" android:id="@+id/imageView2"
             app:layout_constraintTop_toTopOf="parent"
-            android:layout_marginTop="100dp" app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginTop="60dp" app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="16dp"/>
     <EditText
             android:layout_width="0dp"
